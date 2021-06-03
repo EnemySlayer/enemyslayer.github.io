@@ -122,7 +122,9 @@ h4{
 .navbar-brand:hover{
   filter: opacity(80%);
 }
-
+#header{
+  padding-bottom: 150px;
+}
 .sec_header{
   padding-top: 100px;
   padding-bottom: 100px;
@@ -229,7 +231,7 @@ h4{
     padding-bottom: 150px;
   }
   #h1_infirst_sec{
-    font-size: 22px;
+    font-size: 26px;
   }
   h1 {
     font-size: 38px;
