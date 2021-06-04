@@ -197,6 +197,9 @@ background-color: #E81E63;
     font-size: 13px;
     padding: 0px;
   }
+  .sec_header{
+    padding-top: 50px;
+  }
   #h1-header{
     font-size: 27px;
   }
