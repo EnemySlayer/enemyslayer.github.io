@@ -195,6 +195,7 @@ background-color: #E81E63;
 @media screen and (max-width:500px){
   #h1_infirst_sec{
     font-size: 13px;
+    padding: 0px;
   }
   #h1-header{
     font-size: 27px;
